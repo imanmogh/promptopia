@@ -41,6 +41,9 @@ Live URL: <a href="https://">promptopia</a>
 * Tailwind
 * React
 * Apollo Server
+* Google Auth
+* Next Auth
+
 
 
 ## Contribute
